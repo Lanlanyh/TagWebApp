@@ -1,0 +1,31 @@
+.container{
+    box-shadow: 0 0 3px rgba(0,0,0,0.7);
+    width: 360px;
+    margin:100px auto;
+    padding: 0;
+    background: #f7f7f7;
+}
+
+.containerHead {
+    background:#f7f7f7;
+    height: 50px;
+    padding-top: 5px ;
+    padding-left: 10px;
+    font-size: 25px;
+}
+.containerHead button{
+    color: #4e555b;
+    background:#f7f7f7;
+    border: none;
+    outline:none;
+}
+.containerHead button:hover{
+    color: #c6c8ca;
+    opacity: 1.0;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
